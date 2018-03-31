@@ -14,6 +14,8 @@ setup(
 
     packages=["DiscordBotsAPI"],
 
+    install_requires=['requests'],
+
     project_urls={
         'Bug reports': "https://github.com/lapin-b/discord-bots-api-fr/issues",
         'Source': 'https://github.com/lapin-b/discord-bots-api-fr'
